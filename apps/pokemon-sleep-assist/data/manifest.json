@@ -3,20 +3,100 @@
   "dataVersion": "2026.05.18",
   "files": [
     {
-      "name": "score_config.json",
-      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/score_config.json"
-    },
-    {
       "name": "species.json",
-      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/species.json"
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/species.json",
+      "category": "core",
+      "updatePriority": "high"
     },
     {
-      "name": "nuts.json",
-      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/nuts.json"
+      "name": "special_pokemon_rules.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/special_pokemon_rules.json",
+      "category": "core",
+      "updatePriority": "high"
+    },
+    {
+      "name": "dishes.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/dishes.json",
+      "category": "recipe",
+      "updatePriority": "high"
+    },
+    {
+      "name": "dishes_bonus.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/dishes_bonus.json",
+      "category": "recipe",
+      "updatePriority": "medium"
     },
     {
       "name": "ingredients.json",
-      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/ingredients.json"
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/ingredients.json",
+      "category": "core",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "nuts.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/nuts.json",
+      "category": "core",
+      "updatePriority": "low"
+    },
+    {
+      "name": "score_config.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/score_config.json",
+      "category": "evaluation",
+      "updatePriority": "high"
+    },
+    {
+      "name": "SP_main_skill_factor.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/SP_main_skill_factor.json",
+      "category": "sp",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "SP_sub_skill_factor.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/SP_sub_skill_factor.json",
+      "category": "sp",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "SP_ingredients_coefficient.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/SP_ingredients_coefficient.json",
+      "category": "sp",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "experience_points.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/experience_points.json",
+      "category": "level",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "dream_shard.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/dream_shard.json",
+      "category": "level",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "research_areas.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/research_areas.json",
+      "category": "energy",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "energy.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/energy.json",
+      "category": "energy",
+      "updatePriority": "low"
+    },
+    {
+      "name": "evolutions.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/evolutions.json",
+      "category": "core",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "personality.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/personality.json",
+      "category": "core",
+      "updatePriority": "low"
     }
   ]
 }
