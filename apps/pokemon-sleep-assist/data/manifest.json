@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.05.18",
+  "files": [
+    {
+      "name": "score_config.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/score_config.json"
+    },
+    {
+      "name": "species.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/species.json"
+    },
+    {
+      "name": "nuts.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/nuts.json"
+    },
+    {
+      "name": "ingredients.json",
+      "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/ingredients.json"
+    }
+  ]
+}
