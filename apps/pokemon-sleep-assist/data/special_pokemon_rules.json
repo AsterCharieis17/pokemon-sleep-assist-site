@@ -1,0 +1,73 @@
+[
+  {
+    "rule_id": "mythical_darkrai_multi_food",
+    "species_name": "ダークライ",
+    "category": "Mythical",
+    "allow_empty_food_slots": true,
+    "allow_empty_sub_skills": true,
+    "allow_main_skill_selection": false,
+    "base_main_skill": "ナイトメア",
+    "ignore_selected_main_skill_for_sp": false,
+    "selectable_main_skills": []
+  },
+  {
+    "rule_id": "mythical_mew_almighty",
+    "species_name": "ミュウ",
+    "category": "Mythical",
+    "allow_empty_food_slots": true,
+    "allow_empty_sub_skills": true,
+    "allow_main_skill_selection": true,
+    "base_main_skill": "オールマイティ",
+    "ignore_selected_main_skill_for_sp": true,
+    "selectable_main_skills": [
+      {
+        "main_skill": "ゆびをふる",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "エナジーチャージS(ランダム)",
+        "probability_key": "skill_probability_high"
+      },
+      {
+        "main_skill": "エナジーチャージM",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "ゆめのかけらゲットS(ランダム)",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "食材ゲットS",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "げんきエールS",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "げんきチャージS",
+        "probability_key": "skill_probability_high"
+      },
+      {
+        "main_skill": "げんきオールS",
+        "probability_key": "skill_probability_low"
+      },
+      {
+        "main_skill": "料理チャンスS",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "料理パワーアップS",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "おてつだいサポートS",
+        "probability_key": "skill_probability_middle"
+      },
+      {
+        "main_skill": "きのみバースト",
+        "probability_key": "skill_probability_low"
+      }
+    ]
+  }
+]

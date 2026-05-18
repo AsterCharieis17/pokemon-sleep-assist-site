@@ -1,0 +1,92 @@
+[
+  {
+    "type": "むし",
+    "nuts": "ラム",
+    "basic_energy": 24
+  },
+  {
+    "type": "みず",
+    "nuts": "オレン",
+    "basic_energy": 31
+  },
+  {
+    "type": "ほのお",
+    "nuts": "ヒメリ",
+    "basic_energy": 27
+  },
+  {
+    "type": "フェアリー",
+    "nuts": "モモン",
+    "basic_energy": 26
+  },
+  {
+    "type": "ひこう",
+    "nuts": "シーヤ",
+    "basic_energy": 24
+  },
+  {
+    "type": "はがね",
+    "nuts": "ベリブ",
+    "basic_energy": 33
+  },
+  {
+    "type": "ノーマル",
+    "nuts": "キー",
+    "basic_energy": 28
+  },
+  {
+    "type": "ドラゴン",
+    "nuts": "ヤチェ",
+    "basic_energy": 35
+  },
+  {
+    "type": "どく",
+    "nuts": "カゴ",
+    "basic_energy": 32
+  },
+  {
+    "type": "でんき",
+    "nuts": "ウブ",
+    "basic_energy": 25
+  },
+  {
+    "type": "じめん",
+    "nuts": "フィラ",
+    "basic_energy": 29
+  },
+  {
+    "type": "こおり",
+    "nuts": "チーゴ",
+    "basic_energy": 32
+  },
+  {
+    "type": "ゴースト",
+    "nuts": "ブリー",
+    "basic_energy": 26
+  },
+  {
+    "type": "くさ",
+    "nuts": "ドリ",
+    "basic_energy": 30
+  },
+  {
+    "type": "かくとう",
+    "nuts": "クラボ",
+    "basic_energy": 27
+  },
+  {
+    "type": "エスパー",
+    "nuts": "マゴ",
+    "basic_energy": 26
+  },
+  {
+    "type": "いわ",
+    "nuts": "オボン",
+    "basic_energy": 30
+  },
+  {
+    "type": "あく",
+    "nuts": "ウイ",
+    "basic_energy": 31
+  }
+]

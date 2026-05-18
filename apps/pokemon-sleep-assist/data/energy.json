@@ -1,0 +1,27 @@
+[
+  {
+    "amount_of_energy": 81,
+    "shortening_magnification": 0.45,
+    "energy_correction": 2.222
+  },
+  {
+    "amount_of_energy": 61,
+    "shortening_magnification": 0.52,
+    "energy_correction": 1.923
+  },
+  {
+    "amount_of_energy": 41,
+    "shortening_magnification": 0.58,
+    "energy_correction": 1.724
+  },
+  {
+    "amount_of_energy": 1,
+    "shortening_magnification": 0.66,
+    "energy_correction": 1.5115
+  },
+  {
+    "amount_of_energy": 0,
+    "shortening_magnification": 1,
+    "energy_correction": 1
+  }
+]

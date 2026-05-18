@@ -1,0 +1,533 @@
+[
+  {
+    "Lv": 2,
+    "required_experience_points_600type": 54,
+    "cumulative_experience_points_600type": 54,
+    "required_experience_points_900type": 81,
+    "cumulative_experience_points_900type": 81,
+    "required_experience_points_10800type": 97,
+    "cumulative_experience_points_1080type": 97
+  },
+  {
+    "Lv": 3,
+    "required_experience_points_600type": 71,
+    "cumulative_experience_points_600type": 125,
+    "required_experience_points_900type": 107,
+    "cumulative_experience_points_900type": 188,
+    "required_experience_points_10800type": 128,
+    "cumulative_experience_points_1080type": 225
+  },
+  {
+    "Lv": 4,
+    "required_experience_points_600type": 108,
+    "cumulative_experience_points_600type": 233,
+    "required_experience_points_900type": 162,
+    "cumulative_experience_points_900type": 350,
+    "required_experience_points_10800type": 194,
+    "cumulative_experience_points_1080type": 419
+  },
+  {
+    "Lv": 5,
+    "required_experience_points_600type": 128,
+    "cumulative_experience_points_600type": 361,
+    "required_experience_points_900type": 192,
+    "cumulative_experience_points_900type": 542,
+    "required_experience_points_10800type": 231,
+    "cumulative_experience_points_1080type": 650
+  },
+  {
+    "Lv": 6,
+    "required_experience_points_600type": 164,
+    "cumulative_experience_points_600type": 525,
+    "required_experience_points_900type": 246,
+    "cumulative_experience_points_900type": 788,
+    "required_experience_points_10800type": 295,
+    "cumulative_experience_points_1080type": 945
+  },
+  {
+    "Lv": 7,
+    "required_experience_points_600type": 202,
+    "cumulative_experience_points_600type": 727,
+    "required_experience_points_900type": 303,
+    "cumulative_experience_points_900type": 1091,
+    "required_experience_points_10800type": 364,
+    "cumulative_experience_points_1080type": 1309
+  },
+  {
+    "Lv": 8,
+    "required_experience_points_600type": 244,
+    "cumulative_experience_points_600type": 971,
+    "required_experience_points_900type": 366,
+    "cumulative_experience_points_900type": 1457,
+    "required_experience_points_10800type": 439,
+    "cumulative_experience_points_1080type": 1748
+  },
+  {
+    "Lv": 9,
+    "required_experience_points_600type": 274,
+    "cumulative_experience_points_600type": 1245,
+    "required_experience_points_900type": 411,
+    "cumulative_experience_points_900type": 1868,
+    "required_experience_points_10800type": 493,
+    "cumulative_experience_points_1080type": 2241
+  },
+  {
+    "Lv": 10,
+    "required_experience_points_600type": 315,
+    "cumulative_experience_points_600type": 1560,
+    "required_experience_points_900type": 472,
+    "cumulative_experience_points_900type": 2340,
+    "required_experience_points_10800type": 567,
+    "cumulative_experience_points_1080type": 2808
+  },
+  {
+    "Lv": 11,
+    "required_experience_points_600type": 345,
+    "cumulative_experience_points_600type": 1905,
+    "required_experience_points_900type": 518,
+    "cumulative_experience_points_900type": 2858,
+    "required_experience_points_10800type": 621,
+    "cumulative_experience_points_1080type": 3429
+  },
+  {
+    "Lv": 12,
+    "required_experience_points_600type": 376,
+    "cumulative_experience_points_600type": 2281,
+    "required_experience_points_900type": 564,
+    "cumulative_experience_points_900type": 3422,
+    "required_experience_points_10800type": 677,
+    "cumulative_experience_points_1080type": 4106
+  },
+  {
+    "Lv": 13,
+    "required_experience_points_600type": 407,
+    "cumulative_experience_points_600type": 2688,
+    "required_experience_points_900type": 610,
+    "cumulative_experience_points_900type": 4032,
+    "required_experience_points_10800type": 732,
+    "cumulative_experience_points_1080type": 4838
+  },
+  {
+    "Lv": 14,
+    "required_experience_points_600type": 419,
+    "cumulative_experience_points_600type": 3107,
+    "required_experience_points_900type": 629,
+    "cumulative_experience_points_900type": 4661,
+    "required_experience_points_10800type": 755,
+    "cumulative_experience_points_1080type": 5593
+  },
+  {
+    "Lv": 15,
+    "required_experience_points_600type": 429,
+    "cumulative_experience_points_600type": 3536,
+    "required_experience_points_900type": 643,
+    "cumulative_experience_points_900type": 5304,
+    "required_experience_points_10800type": 772,
+    "cumulative_experience_points_1080type": 6365
+  },
+  {
+    "Lv": 16,
+    "required_experience_points_600type": 440,
+    "cumulative_experience_points_600type": 3976,
+    "required_experience_points_900type": 660,
+    "cumulative_experience_points_900type": 5964,
+    "required_experience_points_10800type": 792,
+    "cumulative_experience_points_1080type": 7157
+  },
+  {
+    "Lv": 17,
+    "required_experience_points_600type": 454,
+    "cumulative_experience_points_600type": 4430,
+    "required_experience_points_900type": 681,
+    "cumulative_experience_points_900type": 6645,
+    "required_experience_points_10800type": 817,
+    "cumulative_experience_points_1080type": 7974
+  },
+  {
+    "Lv": 18,
+    "required_experience_points_600type": 469,
+    "cumulative_experience_points_600type": 4899,
+    "required_experience_points_900type": 704,
+    "cumulative_experience_points_900type": 7349,
+    "required_experience_points_10800type": 844,
+    "cumulative_experience_points_1080type": 8818
+  },
+  {
+    "Lv": 19,
+    "required_experience_points_600type": 483,
+    "cumulative_experience_points_600type": 5382,
+    "required_experience_points_900type": 724,
+    "cumulative_experience_points_900type": 8073,
+    "required_experience_points_10800type": 870,
+    "cumulative_experience_points_1080type": 9688
+  },
+  {
+    "Lv": 20,
+    "required_experience_points_600type": 497,
+    "cumulative_experience_points_600type": 5879,
+    "required_experience_points_900type": 746,
+    "cumulative_experience_points_900type": 8819,
+    "required_experience_points_10800type": 894,
+    "cumulative_experience_points_1080type": 10582
+  },
+  {
+    "Lv": 21,
+    "required_experience_points_600type": 515,
+    "cumulative_experience_points_600type": 6394,
+    "required_experience_points_900type": 772,
+    "cumulative_experience_points_900type": 9591,
+    "required_experience_points_10800type": 927,
+    "cumulative_experience_points_1080type": 11509
+  },
+  {
+    "Lv": 22,
+    "required_experience_points_600type": 537,
+    "cumulative_experience_points_600type": 6931,
+    "required_experience_points_900type": 806,
+    "cumulative_experience_points_900type": 10397,
+    "required_experience_points_10800type": 967,
+    "cumulative_experience_points_1080type": 12476
+  },
+  {
+    "Lv": 23,
+    "required_experience_points_600type": 558,
+    "cumulative_experience_points_600type": 7489,
+    "required_experience_points_900type": 837,
+    "cumulative_experience_points_900type": 11234,
+    "required_experience_points_10800type": 1004,
+    "cumulative_experience_points_1080type": 13480
+  },
+  {
+    "Lv": 24,
+    "required_experience_points_600type": 579,
+    "cumulative_experience_points_600type": 8068,
+    "required_experience_points_900type": 868,
+    "cumulative_experience_points_900type": 12102,
+    "required_experience_points_10800type": 1042,
+    "cumulative_experience_points_1080type": 14522
+  },
+  {
+    "Lv": 25,
+    "required_experience_points_600type": 600,
+    "cumulative_experience_points_600type": 8668,
+    "required_experience_points_900type": 900,
+    "cumulative_experience_points_900type": 13002,
+    "required_experience_points_10800type": 1080,
+    "cumulative_experience_points_1080type": 15602
+  },
+  {
+    "Lv": 26,
+    "required_experience_points_600type": 622,
+    "cumulative_experience_points_600type": 9290,
+    "required_experience_points_900type": 933,
+    "cumulative_experience_points_900type": 13935,
+    "required_experience_points_10800type": 1120,
+    "cumulative_experience_points_1080type": 16722
+  },
+  {
+    "Lv": 27,
+    "required_experience_points_600type": 643,
+    "cumulative_experience_points_600type": 9933,
+    "required_experience_points_900type": 965,
+    "cumulative_experience_points_900type": 14900,
+    "required_experience_points_10800type": 1157,
+    "cumulative_experience_points_1080type": 17879
+  },
+  {
+    "Lv": 28,
+    "required_experience_points_600type": 665,
+    "cumulative_experience_points_600type": 10598,
+    "required_experience_points_900type": 997,
+    "cumulative_experience_points_900type": 15897,
+    "required_experience_points_10800type": 1197,
+    "cumulative_experience_points_1080type": 19076
+  },
+  {
+    "Lv": 29,
+    "required_experience_points_600type": 686,
+    "cumulative_experience_points_600type": 11284,
+    "required_experience_points_900type": 1029,
+    "cumulative_experience_points_900type": 16926,
+    "required_experience_points_10800type": 1235,
+    "cumulative_experience_points_1080type": 20311
+  },
+  {
+    "Lv": 30,
+    "required_experience_points_600type": 708,
+    "cumulative_experience_points_600type": 11992,
+    "required_experience_points_900type": 1062,
+    "cumulative_experience_points_900type": 17988,
+    "required_experience_points_10800type": 1275,
+    "cumulative_experience_points_1080type": 21586
+  },
+  {
+    "Lv": 31,
+    "required_experience_points_600type": 729,
+    "cumulative_experience_points_600type": 12721,
+    "required_experience_points_900type": 1094,
+    "cumulative_experience_points_900type": 19082,
+    "required_experience_points_10800type": 1312,
+    "cumulative_experience_points_1080type": 22898
+  },
+  {
+    "Lv": 32,
+    "required_experience_points_600type": 748,
+    "cumulative_experience_points_600type": 13469,
+    "required_experience_points_900type": 1122,
+    "cumulative_experience_points_900type": 20204,
+    "required_experience_points_10800type": 1346,
+    "cumulative_experience_points_1080type": 24244
+  },
+  {
+    "Lv": 33,
+    "required_experience_points_600type": 766,
+    "cumulative_experience_points_600type": 14235,
+    "required_experience_points_900type": 1149,
+    "cumulative_experience_points_900type": 21353,
+    "required_experience_points_10800type": 1379,
+    "cumulative_experience_points_1080type": 25623
+  },
+  {
+    "Lv": 34,
+    "required_experience_points_600type": 785,
+    "cumulative_experience_points_600type": 15020,
+    "required_experience_points_900type": 1177,
+    "cumulative_experience_points_900type": 22530,
+    "required_experience_points_10800type": 1413,
+    "cumulative_experience_points_1080type": 27036
+  },
+  {
+    "Lv": 35,
+    "required_experience_points_600type": 803,
+    "cumulative_experience_points_600type": 15823,
+    "required_experience_points_900type": 1205,
+    "cumulative_experience_points_900type": 23735,
+    "required_experience_points_10800type": 1445,
+    "cumulative_experience_points_1080type": 28481
+  },
+  {
+    "Lv": 36,
+    "required_experience_points_600type": 821,
+    "cumulative_experience_points_600type": 16644,
+    "required_experience_points_900type": 1231,
+    "cumulative_experience_points_900type": 24966,
+    "required_experience_points_10800type": 1478,
+    "cumulative_experience_points_1080type": 29959
+  },
+  {
+    "Lv": 37,
+    "required_experience_points_600type": 839,
+    "cumulative_experience_points_600type": 17483,
+    "required_experience_points_900type": 1259,
+    "cumulative_experience_points_900type": 26225,
+    "required_experience_points_10800type": 1510,
+    "cumulative_experience_points_1080type": 31469
+  },
+  {
+    "Lv": 38,
+    "required_experience_points_600type": 857,
+    "cumulative_experience_points_600type": 18340,
+    "required_experience_points_900type": 1285,
+    "cumulative_experience_points_900type": 27510,
+    "required_experience_points_10800type": 1543,
+    "cumulative_experience_points_1080type": 33012
+  },
+  {
+    "Lv": 39,
+    "required_experience_points_600type": 875,
+    "cumulative_experience_points_600type": 19215,
+    "required_experience_points_900type": 1313,
+    "cumulative_experience_points_900type": 28823,
+    "required_experience_points_10800type": 1575,
+    "cumulative_experience_points_1080type": 34587
+  },
+  {
+    "Lv": 40,
+    "required_experience_points_600type": 893,
+    "cumulative_experience_points_600type": 20108,
+    "required_experience_points_900type": 1339,
+    "cumulative_experience_points_900type": 30162,
+    "required_experience_points_10800type": 1607,
+    "cumulative_experience_points_1080type": 36194
+  },
+  {
+    "Lv": 41,
+    "required_experience_points_600type": 910,
+    "cumulative_experience_points_600type": 21018,
+    "required_experience_points_900type": 1365,
+    "cumulative_experience_points_900type": 31527,
+    "required_experience_points_10800type": 1638,
+    "cumulative_experience_points_1080type": 37832
+  },
+  {
+    "Lv": 42,
+    "required_experience_points_600type": 928,
+    "cumulative_experience_points_600type": 21946,
+    "required_experience_points_900type": 1392,
+    "cumulative_experience_points_900type": 32919,
+    "required_experience_points_10800type": 1671,
+    "cumulative_experience_points_1080type": 39503
+  },
+  {
+    "Lv": 43,
+    "required_experience_points_600type": 945,
+    "cumulative_experience_points_600type": 22891,
+    "required_experience_points_900type": 1418,
+    "cumulative_experience_points_900type": 34337,
+    "required_experience_points_10800type": 1701,
+    "cumulative_experience_points_1080type": 41204
+  },
+  {
+    "Lv": 44,
+    "required_experience_points_600type": 963,
+    "cumulative_experience_points_600type": 23854,
+    "required_experience_points_900type": 1444,
+    "cumulative_experience_points_900type": 35781,
+    "required_experience_points_10800type": 1733,
+    "cumulative_experience_points_1080type": 42937
+  },
+  {
+    "Lv": 45,
+    "required_experience_points_600type": 980,
+    "cumulative_experience_points_600type": 24834,
+    "required_experience_points_900type": 1470,
+    "cumulative_experience_points_900type": 37251,
+    "required_experience_points_10800type": 1764,
+    "cumulative_experience_points_1080type": 44701
+  },
+  {
+    "Lv": 46,
+    "required_experience_points_600type": 997,
+    "cumulative_experience_points_600type": 25831,
+    "required_experience_points_900type": 1496,
+    "cumulative_experience_points_900type": 38747,
+    "required_experience_points_10800type": 1795,
+    "cumulative_experience_points_1080type": 46496
+  },
+  {
+    "Lv": 47,
+    "required_experience_points_600type": 1015,
+    "cumulative_experience_points_600type": 26846,
+    "required_experience_points_900type": 1522,
+    "cumulative_experience_points_900type": 40269,
+    "required_experience_points_10800type": 1827,
+    "cumulative_experience_points_1080type": 48323
+  },
+  {
+    "Lv": 48,
+    "required_experience_points_600type": 1032,
+    "cumulative_experience_points_600type": 27878,
+    "required_experience_points_900type": 1548,
+    "cumulative_experience_points_900type": 41817,
+    "required_experience_points_10800type": 1857,
+    "cumulative_experience_points_1080type": 50180
+  },
+  {
+    "Lv": 49,
+    "required_experience_points_600type": 1049,
+    "cumulative_experience_points_600type": 28927,
+    "required_experience_points_900type": 1574,
+    "cumulative_experience_points_900type": 43391,
+    "required_experience_points_10800type": 1889,
+    "cumulative_experience_points_1080type": 52069
+  },
+  {
+    "Lv": 50,
+    "required_experience_points_600type": 1066,
+    "cumulative_experience_points_600type": 29993,
+    "required_experience_points_900type": 1599,
+    "cumulative_experience_points_900type": 44990,
+    "required_experience_points_10800type": 1918,
+    "cumulative_experience_points_1080type": 53987
+  },
+  {
+    "Lv": 51,
+    "required_experience_points_600type": 1362,
+    "cumulative_experience_points_600type": 31355,
+    "required_experience_points_900type": 2042,
+    "cumulative_experience_points_900type": 47032,
+    "required_experience_points_10800type": 2451,
+    "cumulative_experience_points_1080type": 56438
+  },
+  {
+    "Lv": 52,
+    "required_experience_points_600type": 1562,
+    "cumulative_experience_points_600type": 32917,
+    "required_experience_points_900type": 2344,
+    "cumulative_experience_points_900type": 49376,
+    "required_experience_points_10800type": 2813,
+    "cumulative_experience_points_1080type": 59251
+  },
+  {
+    "Lv": 53,
+    "required_experience_points_600type": 1747,
+    "cumulative_experience_points_600type": 34664,
+    "required_experience_points_900type": 2620,
+    "cumulative_experience_points_900type": 51996,
+    "required_experience_points_10800type": 3145,
+    "cumulative_experience_points_1080type": 62396
+  },
+  {
+    "Lv": 54,
+    "required_experience_points_600type": 1946,
+    "cumulative_experience_points_600type": 36610,
+    "required_experience_points_900type": 2919,
+    "cumulative_experience_points_900type": 54915,
+    "required_experience_points_10800type": 3501,
+    "cumulative_experience_points_1080type": 65897
+  },
+  {
+    "Lv": 55,
+    "required_experience_points_600type": 2195,
+    "cumulative_experience_points_600type": 38805,
+    "required_experience_points_900type": 3293,
+    "cumulative_experience_points_900type": 58208,
+    "required_experience_points_10800type": 3952,
+    "cumulative_experience_points_1080type": 69849
+  },
+  {
+    "Lv": 56,
+    "required_experience_points_600type": 2279,
+    "cumulative_experience_points_600type": 41084,
+    "required_experience_points_900type": 3419,
+    "cumulative_experience_points_900type": 61627,
+    "required_experience_points_10800type": 4102,
+    "cumulative_experience_points_1080type": 73951
+  },
+  {
+    "Lv": 57,
+    "required_experience_points_600type": 2404,
+    "cumulative_experience_points_600type": 43488,
+    "required_experience_points_900type": 3606,
+    "cumulative_experience_points_900type": 65233,
+    "required_experience_points_10800type": 4327,
+    "cumulative_experience_points_1080type": 78278
+  },
+  {
+    "Lv": 58,
+    "required_experience_points_600type": 2533,
+    "cumulative_experience_points_600type": 46021,
+    "required_experience_points_900type": 3800,
+    "cumulative_experience_points_900type": 69033,
+    "required_experience_points_10800type": 4559,
+    "cumulative_experience_points_1080type": 82837
+  },
+  {
+    "Lv": 59,
+    "required_experience_points_600type": 2666,
+    "cumulative_experience_points_600type": 48687,
+    "required_experience_points_900type": 3999,
+    "cumulative_experience_points_900type": 73032,
+    "required_experience_points_10800type": 4799,
+    "cumulative_experience_points_1080type": 87636
+  },
+  {
+    "Lv": 60,
+    "required_experience_points_600type": 2806,
+    "cumulative_experience_points_600type": 51493,
+    "required_experience_points_900type": 4209,
+    "cumulative_experience_points_900type": 77241,
+    "required_experience_points_10800type": 5051,
+    "cumulative_experience_points_1080type": 92687
+  }
+]

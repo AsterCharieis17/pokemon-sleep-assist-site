@@ -1,0 +1,402 @@
+[
+  {
+    "Lv": 1,
+    "ingredients_coefficient": 1
+  },
+  {
+    "Lv": 2,
+    "ingredients_coefficient": 1.003
+  },
+  {
+    "Lv": 3,
+    "ingredients_coefficient": 1.007
+  },
+  {
+    "Lv": 4,
+    "ingredients_coefficient": 1.011
+  },
+  {
+    "Lv": 5,
+    "ingredients_coefficient": 1.016
+  },
+  {
+    "Lv": 6,
+    "ingredients_coefficient": 1.021
+  },
+  {
+    "Lv": 7,
+    "ingredients_coefficient": 1.027
+  },
+  {
+    "Lv": 8,
+    "ingredients_coefficient": 1.033
+  },
+  {
+    "Lv": 9,
+    "ingredients_coefficient": 1.039
+  },
+  {
+    "Lv": 10,
+    "ingredients_coefficient": 1.046
+  },
+  {
+    "Lv": 11,
+    "ingredients_coefficient": 1.053
+  },
+  {
+    "Lv": 12,
+    "ingredients_coefficient": 1.061
+  },
+  {
+    "Lv": 13,
+    "ingredients_coefficient": 1.069
+  },
+  {
+    "Lv": 14,
+    "ingredients_coefficient": 1.077
+  },
+  {
+    "Lv": 15,
+    "ingredients_coefficient": 1.085
+  },
+  {
+    "Lv": 16,
+    "ingredients_coefficient": 1.094
+  },
+  {
+    "Lv": 17,
+    "ingredients_coefficient": 1.104
+  },
+  {
+    "Lv": 18,
+    "ingredients_coefficient": 1.114
+  },
+  {
+    "Lv": 19,
+    "ingredients_coefficient": 1.124
+  },
+  {
+    "Lv": 20,
+    "ingredients_coefficient": 1.134
+  },
+  {
+    "Lv": 21,
+    "ingredients_coefficient": 1.145
+  },
+  {
+    "Lv": 22,
+    "ingredients_coefficient": 1.156
+  },
+  {
+    "Lv": 23,
+    "ingredients_coefficient": 1.168
+  },
+  {
+    "Lv": 24,
+    "ingredients_coefficient": 1.180
+  },
+  {
+    "Lv": 25,
+    "ingredients_coefficient": 1.192
+  },
+  {
+    "Lv": 26,
+    "ingredients_coefficient": 1.205
+  },
+  {
+    "Lv": 27,
+    "ingredients_coefficient": 1.218
+  },
+  {
+    "Lv": 28,
+    "ingredients_coefficient": 1.231
+  },
+  {
+    "Lv": 29,
+    "ingredients_coefficient": 1.245
+  },
+  {
+    "Lv": 30,
+    "ingredients_coefficient": 1.259
+  },
+  {
+    "Lv": 31,
+    "ingredients_coefficient": 1.274
+  },
+  {
+    "Lv": 32,
+    "ingredients_coefficient": 1.288
+  },
+  {
+    "Lv": 33,
+    "ingredients_coefficient": 1.303
+  },
+  {
+    "Lv": 34,
+    "ingredients_coefficient": 1.319
+  },
+  {
+    "Lv": 35,
+    "ingredients_coefficient": 1.335
+  },
+  {
+    "Lv": 36,
+    "ingredients_coefficient": 1.351
+  },
+  {
+    "Lv": 37,
+    "ingredients_coefficient": 1.368
+  },
+  {
+    "Lv": 38,
+    "ingredients_coefficient": 1.385
+  },
+  {
+    "Lv": 39,
+    "ingredients_coefficient": 1.402
+  },
+  {
+    "Lv": 40,
+    "ingredients_coefficient": 1.420
+  },
+  {
+    "Lv": 41,
+    "ingredients_coefficient": 1.439
+  },
+  {
+    "Lv": 42,
+    "ingredients_coefficient": 1.457
+  },
+  {
+    "Lv": 43,
+    "ingredients_coefficient": 1.477
+  },
+  {
+    "Lv": 44,
+    "ingredients_coefficient": 1.496
+  },
+  {
+    "Lv": 45,
+    "ingredients_coefficient": 1.517
+  },
+  {
+    "Lv": 46,
+    "ingredients_coefficient": 1.537
+  },
+  {
+    "Lv": 47,
+    "ingredients_coefficient": 1.558
+  },
+  {
+    "Lv": 48,
+    "ingredients_coefficient": 1.580
+  },
+  {
+    "Lv": 49,
+    "ingredients_coefficient": 1.602
+  },
+  {
+    "Lv": 50,
+    "ingredients_coefficient": 1.625
+  },
+  {
+    "Lv": 51,
+    "ingredients_coefficient": 1.648
+  },
+  {
+    "Lv": 52,
+    "ingredients_coefficient": 1.671
+  },
+  {
+    "Lv": 53,
+    "ingredients_coefficient": 1.696
+  },
+  {
+    "Lv": 54,
+    "ingredients_coefficient": 1.720
+  },
+  {
+    "Lv": 55,
+    "ingredients_coefficient": 1.745
+  },
+  {
+    "Lv": 56,
+    "ingredients_coefficient": 1.771
+  },
+  {
+    "Lv": 57,
+    "ingredients_coefficient": 1.798
+  },
+  {
+    "Lv": 58,
+    "ingredients_coefficient": 1.824
+  },
+  {
+    "Lv": 59,
+    "ingredients_coefficient": 1.852
+  },
+  {
+    "Lv": 60,
+    "ingredients_coefficient": 1.880
+  },
+  {
+    "Lv": 61,
+    "ingredients_coefficient": 1.927
+  },
+  {
+    "Lv": 62,
+    "ingredients_coefficient": 1.975
+  },
+  {
+    "Lv": 63,
+    "ingredients_coefficient": 2.024
+  },
+  {
+    "Lv": 64,
+    "ingredients_coefficient": 2.075
+  },
+  {
+    "Lv": 65,
+    "ingredients_coefficient": 2.127
+  },
+  {
+    "Lv": 66,
+    "ingredients_coefficient": 2.181
+  },
+  {
+    "Lv": 67,
+    "ingredients_coefficient": 2.235
+  },
+  {
+    "Lv": 68,
+    "ingredients_coefficient": 2.289
+  },
+  {
+    "Lv": 69,
+    "ingredients_coefficient": 2.343
+  },
+  {
+    "Lv": 70,
+    "ingredients_coefficient": 2.397
+  },
+  {
+    "Lv": 71,
+    "ingredients_coefficient": 2.451
+  },
+  {
+    "Lv": 72,
+    "ingredients_coefficient": 2.505
+  },
+  {
+    "Lv": 73,
+    "ingredients_coefficient": 2.559
+  },
+  {
+    "Lv": 74,
+    "ingredients_coefficient": 2.613
+  },
+  {
+    "Lv": 75,
+    "ingredients_coefficient": 2.667
+  },
+  {
+    "Lv": 76,
+    "ingredients_coefficient": 2.721
+  },
+  {
+    "Lv": 77,
+    "ingredients_coefficient": 2.775
+  },
+  {
+    "Lv": 78,
+    "ingredients_coefficient": 2.829
+  },
+  {
+    "Lv": 79,
+    "ingredients_coefficient": 2.883
+  },
+  {
+    "Lv": 80,
+    "ingredients_coefficient": 2.937
+  },
+  {
+    "Lv": 81,
+    "ingredients_coefficient": 2.991
+  },
+  {
+    "Lv": 82,
+    "ingredients_coefficient": 3.045
+  },
+  {
+    "Lv": 83,
+    "ingredients_coefficient": 3.099
+  },
+  {
+    "Lv": 84,
+    "ingredients_coefficient": 3.153
+  },
+  {
+    "Lv": 85,
+    "ingredients_coefficient": 3.207
+  },
+  {
+    "Lv": 86,
+    "ingredients_coefficient": 3.261
+  },
+  {
+    "Lv": 87,
+    "ingredients_coefficient": 3.315
+  },
+  {
+    "Lv": 88,
+    "ingredients_coefficient": 3.369
+  },
+  {
+    "Lv": 89,
+    "ingredients_coefficient": 3.423
+  },
+  {
+    "Lv": 90,
+    "ingredients_coefficient": 3.477
+  },
+  {
+    "Lv": 91,
+    "ingredients_coefficient": 3.531
+  },
+  {
+    "Lv": 92,
+    "ingredients_coefficient": 3.585
+  },
+  {
+    "Lv": 93,
+    "ingredients_coefficient": 3.639
+  },
+  {
+    "Lv": 94,
+    "ingredients_coefficient": 3.693
+  },
+  {
+    "Lv": 95,
+    "ingredients_coefficient": 3.747
+  },
+  {
+    "Lv": 96,
+    "ingredients_coefficient": 3.801
+  },
+  {
+    "Lv": 97,
+    "ingredients_coefficient": 3.855
+  },
+  {
+    "Lv": 98,
+    "ingredients_coefficient": 3.909
+  },
+  {
+    "Lv": 99,
+    "ingredients_coefficient": 3.963
+  },
+  {
+    "Lv": 100,
+    "ingredients_coefficient": 4.017
+  }
+]

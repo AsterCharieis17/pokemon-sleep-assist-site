@@ -1,0 +1,127 @@
+[
+  {
+    "personality": "いじっぱり",
+    "Rise_correction": "おてつだいスピード",
+    "Downward_correction": "食材おてつだい確率"
+  },
+  {
+    "personality": "うっかりや",
+    "Rise_correction": "食材おてつだい確率",
+    "Downward_correction": "メインスキル発生確率"
+  },
+  {
+    "personality": "おくびょう",
+    "Rise_correction": "EXP獲得量",
+    "Downward_correction": "おてつだいスピード"
+  },
+  {
+    "personality": "おっとり",
+    "Rise_correction": "食材おてつだい確率",
+    "Downward_correction": "げんき回復量"
+  },
+  {
+    "personality": "おだやか",
+    "Rise_correction": "メインスキル発生確率",
+    "Downward_correction": "おてつだいスピード"
+  },
+  {
+    "personality": "おとなしい",
+    "Rise_correction": "メインスキル発生確率",
+    "Downward_correction": "げんき回復量"
+  },
+  {
+    "personality": "さみしがり",
+    "Rise_correction": "おてつだいスピード",
+    "Downward_correction": "げんき回復量"
+  },
+  {
+    "personality": "しんちょう",
+    "Rise_correction": "メインスキル発生確率",
+    "Downward_correction": "食材おてつだい確率"
+  },
+  {
+    "personality": "ずぶとい",
+    "Rise_correction": "げんき回復量",
+    "Downward_correction": "おてつだいスピード"
+  },
+  {
+    "personality": "せっかち",
+    "Rise_correction": "EXP獲得量",
+    "Downward_correction": "げんき回復量"
+  },
+  {
+    "personality": "なまいき",
+    "Rise_correction": "メインスキル発生確率",
+    "Downward_correction": "EXP獲得量"
+  },
+  {
+    "personality": "のうてんき",
+    "Rise_correction": "げんき回復量",
+    "Downward_correction": "メインスキル発生確率"
+  },
+  {
+    "personality": "のんき",
+    "Rise_correction": "げんき回復量",
+    "Downward_correction": "EXP獲得量"
+  },
+  {
+    "personality": "ひかえめ",
+    "Rise_correction": "食材おてつだい確率",
+    "Downward_correction": "おてつだいスピード"
+  },
+  {
+    "personality": "むじゃき",
+    "Rise_correction": "EXP獲得量",
+    "Downward_correction": "メインスキル発生確率"
+  },
+  {
+    "personality": "やんちゃ",
+    "Rise_correction": "おてつだいスピード",
+    "Downward_correction": "メインスキル発生確率"
+  },
+  {
+    "personality": "ゆうかん",
+    "Rise_correction": "おてつだいスピード",
+    "Downward_correction": "EXP獲得量"
+  },
+  {
+    "personality": "ようき",
+    "Rise_correction": "EXP獲得量",
+    "Downward_correction": "食材おてつだい確率"
+  },
+  {
+    "personality": "れいせい",
+    "Rise_correction": "食材おてつだい確率",
+    "Downward_correction": "EXP獲得量"
+  },
+  {
+    "personality": "わんぱく",
+    "Rise_correction": "げんき回復量",
+    "Downward_correction": "食材おてつだい確率"
+  },
+  {
+    "personality": "がんばりや",
+    "Rise_correction": "-",
+    "Downward_correction": "-"
+  },
+  {
+    "personality": "すなお",
+    "Rise_correction": "-",
+    "Downward_correction": "-"
+  },
+  {
+    "personality": "てれや",
+    "Rise_correction": "-",
+    "Downward_correction": "-"
+  },
+  {
+    "personality": "きまぐれ",
+    "Rise_correction": "-",
+    "Downward_correction": "-"
+  },
+  {
+    "personality": "まじめ",
+    "Rise_correction": "-",
+    "Downward_correction": "-"
+  }
+]

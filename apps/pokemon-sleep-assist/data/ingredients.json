@@ -1,0 +1,97 @@
+[
+  {
+    "ingredients": "oishii_shippo",
+    "display_name": "おいしいシッポ",
+    "basic_energy": 342
+  },
+  {
+    "ingredients": "futoi_naganegi",
+    "display_name": "ふといながねぎ",
+    "basic_energy": 185
+  },
+  {
+    "ingredients": "ajiwai_kinoko",
+    "display_name": "あじわいキノコ",
+    "basic_energy": 167
+  },
+  {
+    "ingredients": "mezamashi_coffee",
+    "display_name": "めざましコーヒー",
+    "basic_energy": 153
+  },
+  {
+    "ingredients": "relax_cacao",
+    "display_name": "リラックスカカオ",
+    "basic_energy": 151
+  },
+  {
+    "ingredients": "wakakusa_corn",
+    "display_name": "ワカクサコーン",
+    "basic_energy": 140
+  },
+  {
+    "ingredients": "gekikara_haabu",
+    "display_name": "げきからハーブ",
+    "basic_energy": 130
+  },
+  {
+    "ingredients": "hokkori_potato",
+    "display_name": "ほっこりポテト",
+    "basic_energy": 124
+  },
+  {
+    "ingredients": "pure_oil",
+    "display_name": "ピュアなオイル",
+    "basic_energy": 121
+  },
+  {
+    "ingredients": "tokusen_egg",
+    "display_name": "とくせんエッグ",
+    "basic_energy": 115
+  },
+  {
+    "ingredients": "anmin_tomato",
+    "display_name": "あんみんトマト",
+    "basic_energy": 110
+  },
+  {
+    "ingredients": "attaka_ginger",
+    "display_name": "あったかジンジャー",
+    "basic_energy": 109
+  },
+  {
+    "ingredients": "mame_meat",
+    "display_name": "マメミート",
+    "basic_energy": 103
+  },
+  {
+    "ingredients": "amai_mitsu",
+    "display_name": "あまいミツ",
+    "basic_energy": 101
+  },
+  {
+    "ingredients": "wakakusa_daizu",
+    "display_name": "ワカクサ大豆",
+    "basic_energy": 100
+  },
+  {
+    "ingredients": "moomoo_milk",
+    "display_name": "モーモーミルク",
+    "basic_energy": 98
+  },
+  {
+    "ingredients": "tokusen_ringo",
+    "display_name": "とくせんリンゴ",
+    "basic_energy": 90
+  },
+  {
+    "ingredients": "tsuyatsuya_avocado",
+    "display_name": "つやつやアボカド",
+    "basic_energy": 162
+  },
+  {
+    "ingredients": "zussiri_kabocha",
+    "display_name": "ずっしりカボチャ",
+    "basic_energy": 250
+  }
+]

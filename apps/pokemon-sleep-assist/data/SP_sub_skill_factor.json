@@ -1,0 +1,87 @@
+[
+  {
+    "sub_skill": "きのみの数S",
+    "skill_correction_factor": 0,
+    "skill_color":"FEE566"
+  },
+  {
+    "sub_skill": "おてつだいボーナス",
+    "skill_correction_factor": 0.22,
+    "skill_color":"FEE566"
+  },
+  {
+    "sub_skill": "げんき回復ボーナス",
+    "skill_correction_factor": 0.22,
+    "skill_color":"FEE566"
+  },
+  {
+    "sub_skill": "睡眠EXPボーナス",
+    "skill_correction_factor": 0.22,
+    "skill_color":"FEE566"
+  },
+  {
+    "sub_skill": "リサーチEXPボーナス",
+    "skill_correction_factor": 0.22,
+    "skill_color":"FEE566"
+  },
+  {
+    "sub_skill": "ゆめのかけらボーナス",
+    "skill_correction_factor": 0.22,
+    "skill_color":"FEE566"
+  },
+  {
+    "sub_skill": "スキルレベルアップM",
+    "skill_correction_factor": 0,
+    "skill_color":"FEE566"
+  },
+  {
+    "sub_skill": "スキルレベルアップS",
+    "skill_correction_factor": 0,
+    "skill_color":"DAF2FF"
+  },
+  {
+    "sub_skill": "おてつだいスピードM",
+    "skill_correction_factor": 0,
+    "skill_color":"DAF2FF"
+  },
+  {
+    "sub_skill": "食材確率アップM",
+    "skill_correction_factor": 0,
+    "skill_color":"DAF2FF"
+  },
+  {
+    "sub_skill": "スキル確率アップM",
+    "skill_correction_factor": 0,
+    "skill_color":"DAF2FF"
+  },
+  {
+    "sub_skill": "最大所持数アップL",
+    "skill_correction_factor": 0.18,
+    "skill_color":"DAF2FF"
+  },
+  {
+    "sub_skill": "最大所持数アップM",
+    "skill_correction_factor": 0.14,
+    "skill_color":"DAF2FF"
+  },
+  {
+    "sub_skill": "おてつだいスピードS",
+    "skill_correction_factor": 0,
+    "skill_color":"FBFBFB"
+  },
+  {
+    "sub_skill": "食材確率アップS",
+    "skill_correction_factor": 0,
+    "skill_color":"FBFBFB"
+  },
+  {
+    "sub_skill": "スキル確率アップS",
+    "skill_correction_factor": 0,
+    "skill_color":"FBFBFB"
+  },
+  {
+    "sub_skill": "最大所持数アップS",
+    "skill_correction_factor": 0.07,
+    "skill_color":"FBFBFB"
+  }
+]
