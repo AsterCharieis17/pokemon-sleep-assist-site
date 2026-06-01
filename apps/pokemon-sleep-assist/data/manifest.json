@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.06.01",
+  "dataVersion": "2026.06.01-02",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-06-01-wigglytuff-buff",
+  "updateMessageId": "2026-06-01-wigglytuff-buff-02",
   "updateMessage": "データ更新：プクリンの上方修正が反映されました。",
   "files": [
     {
