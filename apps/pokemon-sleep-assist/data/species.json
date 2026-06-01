@@ -582,10 +582,10 @@
     "food_A": "amai_mitsu",
     "food_B": "pure_oil",
     "food_C": "relax_cacao",
-    "food_probability": 0.174,
+    "food_probability": 0.191,
     "main_skill": "げんきオールS",
     "skill_probability": 0.04,
-    "help_speed": 2900,
+    "help_speed": 2750,
     "food_A1_qty": 1,
     "food_A2_qty": 2,
     "food_A3_qty": 4,
@@ -595,7 +595,7 @@
     "remaining_evolutions": 0,
     "evolution_count": 2,
     "exp_type": 600,
-    "max_possession": 13
+    "max_possession": 32
   },
   {
     "species_name": "ディグダ",
