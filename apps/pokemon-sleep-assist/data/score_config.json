@@ -1,9 +1,10 @@
 ﻿{
   "SkillTypeMaxScoreOverride": {
-    "対象Tendency": "スキル",
-    "最大食材個数上限": 2,
-    "加点スコア": 20
-  },
+  "有効": true,
+  "対象Tendency": "スキル",
+  "最大食材個数上限": 2,
+  "固定スコア": 12
+},
   "FoodOrderScores": {
     "AAA": {
       "きのみ": 12,
