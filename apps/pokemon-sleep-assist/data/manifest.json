@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.06.12",
+  "dataVersion": "2026.09.24",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-06-02-NewData",
-  "updateMessage": "データ更新：ラティオスを追加しました。",
+  "updateMessageId": "2026-09-24-DarkraiNightmare",
+  "updateMessage": "データ更新：ダークライのメインスキルレベルが正しく反映されるよう修正しました。",
   "files": [
     {
       "name": "species.json",
