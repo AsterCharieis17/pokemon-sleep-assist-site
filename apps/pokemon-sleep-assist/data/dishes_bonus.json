@@ -1,7 +1,7 @@
 [
   {
     "dishies_Lv": 1,
-    "bonus": 0
+    "bonus": 0.0
   },
   {
     "dishies_Lv": 2,
@@ -161,7 +161,7 @@
   },
   {
     "dishies_Lv": 41,
-    "bonus": 1
+    "bonus": 1.0
   },
   {
     "dishies_Lv": 42,
@@ -238,5 +238,45 @@
   {
     "dishies_Lv": 60,
     "bonus": 2.03
+  },
+  {
+    "dishies_Lv": 61,
+    "bonus": 2.09
+  },
+  {
+    "dishies_Lv": 62,
+    "bonus": 2.15
+  },
+  {
+    "dishies_Lv": 63,
+    "bonus": 2.21
+  },
+  {
+    "dishies_Lv": 64,
+    "bonus": 2.27
+  },
+  {
+    "dishies_Lv": 65,
+    "bonus": 2.34
+  },
+  {
+    "dishies_Lv": 66,
+    "bonus": 2.39
+  },
+  {
+    "dishies_Lv": 67,
+    "bonus": 2.43
+  },
+  {
+    "dishies_Lv": 68,
+    "bonus": 2.48
+  },
+  {
+    "dishies_Lv": 69,
+    "bonus": 2.52
+  },
+  {
+    "dishies_Lv": 70,
+    "bonus": 2.58
   }
 ]

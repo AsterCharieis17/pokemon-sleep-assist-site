@@ -1,7 +1,7 @@
 [
   {
     "Lv": 1,
-    "ingredients_coefficient": 1
+    "ingredients_coefficient": 1.0
   },
   {
     "Lv": 2,
@@ -93,7 +93,7 @@
   },
   {
     "Lv": 24,
-    "ingredients_coefficient": 1.180
+    "ingredients_coefficient": 1.18
   },
   {
     "Lv": 25,
@@ -157,7 +157,7 @@
   },
   {
     "Lv": 40,
-    "ingredients_coefficient": 1.420
+    "ingredients_coefficient": 1.42
   },
   {
     "Lv": 41,
@@ -189,7 +189,7 @@
   },
   {
     "Lv": 48,
-    "ingredients_coefficient": 1.580
+    "ingredients_coefficient": 1.58
   },
   {
     "Lv": 49,
@@ -213,7 +213,7 @@
   },
   {
     "Lv": 54,
-    "ingredients_coefficient": 1.720
+    "ingredients_coefficient": 1.72
   },
   {
     "Lv": 55,
@@ -237,7 +237,7 @@
   },
   {
     "Lv": 60,
-    "ingredients_coefficient": 1.880
+    "ingredients_coefficient": 1.88
   },
   {
     "Lv": 61,
@@ -261,7 +261,7 @@
   },
   {
     "Lv": 66,
-    "ingredients_coefficient": 2.181
+    "ingredients_coefficient": 2.18
   },
   {
     "Lv": 67,
@@ -269,15 +269,15 @@
   },
   {
     "Lv": 68,
-    "ingredients_coefficient": 2.289
+    "ingredients_coefficient": 2.29
   },
   {
     "Lv": 69,
-    "ingredients_coefficient": 2.343
+    "ingredients_coefficient": 2.348
   },
   {
     "Lv": 70,
-    "ingredients_coefficient": 2.397
+    "ingredients_coefficient": 2.406
   },
   {
     "Lv": 71,

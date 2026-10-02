@@ -8,355 +8,415 @@
   {
     "Lv": 2,
     "dream_shard_per__candy": 14,
-    "dream_shard_required_amount": 42,
-    "dream_shard_total": 42
+    "dream_shard_required_amount": 28,
+    "dream_shard_total": 28
   },
   {
     "Lv": 3,
     "dream_shard_per__candy": 18,
-    "dream_shard_required_amount": 54,
-    "dream_shard_total": 78
+    "dream_shard_required_amount": 36,
+    "dream_shard_total": 64
   },
   {
     "Lv": 4,
     "dream_shard_per__candy": 22,
-    "dream_shard_required_amount": 110,
-    "dream_shard_total": 188
+    "dream_shard_required_amount": 66,
+    "dream_shard_total": 108
   },
   {
     "Lv": 5,
     "dream_shard_per__candy": 27,
-    "dream_shard_required_amount": 162,
-    "dream_shard_total": 323
+    "dream_shard_required_amount": 108,
+    "dream_shard_total": 216
   },
   {
     "Lv": 6,
     "dream_shard_per__candy": 30,
-    "dream_shard_required_amount": 210,
-    "dream_shard_total": 503
+    "dream_shard_required_amount": 150,
+    "dream_shard_total": 336
   },
   {
     "Lv": 7,
     "dream_shard_per__candy": 34,
-    "dream_shard_required_amount": 306,
-    "dream_shard_total": 809
+    "dream_shard_required_amount": 204,
+    "dream_shard_total": 506
   },
   {
     "Lv": 8,
     "dream_shard_per__candy": 39,
-    "dream_shard_required_amount": 390,
-    "dream_shard_total": 1160
+    "dream_shard_required_amount": 273,
+    "dream_shard_total": 740
   },
   {
     "Lv": 9,
     "dream_shard_per__candy": 44,
-    "dream_shard_required_amount": 484,
-    "dream_shard_total": 1644
+    "dream_shard_required_amount": 308,
+    "dream_shard_total": 1048
   },
   {
     "Lv": 10,
     "dream_shard_per__candy": 48,
-    "dream_shard_required_amount": 624,
-    "dream_shard_total": 2268
+    "dream_shard_required_amount": 384,
+    "dream_shard_total": 1384
   },
   {
     "Lv": 11,
     "dream_shard_per__candy": 50,
-    "dream_shard_required_amount": 700,
-    "dream_shard_total": 2968
+    "dream_shard_required_amount": 450,
+    "dream_shard_total": 1834
   },
   {
     "Lv": 12,
     "dream_shard_per__candy": 52,
-    "dream_shard_required_amount": 832,
-    "dream_shard_total": 3748
+    "dream_shard_required_amount": 520,
+    "dream_shard_total": 2354
   },
   {
     "Lv": 13,
     "dream_shard_per__candy": 53,
-    "dream_shard_required_amount": 901,
-    "dream_shard_total": 4596
+    "dream_shard_required_amount": 583,
+    "dream_shard_total": 2884
   },
   {
     "Lv": 14,
     "dream_shard_per__candy": 56,
-    "dream_shard_required_amount": 952,
-    "dream_shard_total": 5548
+    "dream_shard_required_amount": 616,
+    "dream_shard_total": 3444
   },
   {
     "Lv": 15,
     "dream_shard_per__candy": 59,
-    "dream_shard_required_amount": 1062,
-    "dream_shard_total": 6551
+    "dream_shard_required_amount": 649,
+    "dream_shard_total": 4093
   },
   {
     "Lv": 16,
     "dream_shard_per__candy": 62,
-    "dream_shard_required_amount": 1116,
-    "dream_shard_total": 7667
+    "dream_shard_required_amount": 682,
+    "dream_shard_total": 4775
   },
   {
     "Lv": 17,
     "dream_shard_per__candy": 66,
-    "dream_shard_required_amount": 1254,
-    "dream_shard_total": 8855
+    "dream_shard_required_amount": 792,
+    "dream_shard_total": 5501
   },
   {
     "Lv": 18,
     "dream_shard_per__candy": 68,
-    "dream_shard_required_amount": 1292,
-    "dream_shard_total": 1079
+    "dream_shard_required_amount": 816,
+    "dream_shard_total": 6317
   },
   {
     "Lv": 19,
     "dream_shard_per__candy": 71,
-    "dream_shard_required_amount": 1420,
-    "dream_shard_total": 11499
+    "dream_shard_required_amount": 923,
+    "dream_shard_total": 7169
   },
   {
     "Lv": 20,
     "dream_shard_per__candy": 74,
-    "dream_shard_required_amount": 1480,
-    "dream_shard_total": 12979
+    "dream_shard_required_amount": 962,
+    "dream_shard_total": 8057
   },
   {
     "Lv": 21,
     "dream_shard_per__candy": 78,
-    "dream_shard_required_amount": 1638,
-    "dream_shard_total": 14539
+    "dream_shard_required_amount": 1014,
+    "dream_shard_total": 9071
   },
   {
     "Lv": 22,
     "dream_shard_per__candy": 81,
-    "dream_shard_required_amount": 1782,
-    "dream_shard_total": 16321
+    "dream_shard_required_amount": 1134,
+    "dream_shard_total": 10205
   },
   {
     "Lv": 23,
     "dream_shard_per__candy": 85,
-    "dream_shard_required_amount": 1955,
-    "dream_shard_total": 18191
+    "dream_shard_required_amount": 1190,
+    "dream_shard_total": 11395
   },
   {
     "Lv": 24,
     "dream_shard_per__candy": 88,
-    "dream_shard_required_amount": 2112,
-    "dream_shard_total": 20215
+    "dream_shard_required_amount": 1320,
+    "dream_shard_total": 12627
   },
   {
     "Lv": 25,
     "dream_shard_per__candy": 92,
-    "dream_shard_required_amount": 2208,
-    "dream_shard_total": 22423
+    "dream_shard_required_amount": 1380,
+    "dream_shard_total": 14007
   },
   {
     "Lv": 26,
     "dream_shard_per__candy": 95,
-    "dream_shard_required_amount": 2375,
-    "dream_shard_total": 24798
+    "dream_shard_required_amount": 1710,
+    "dream_shard_total": 15717
   },
   {
     "Lv": 27,
     "dream_shard_per__candy": 100,
-    "dream_shard_required_amount": 2600,
-    "dream_shard_total": 27398
+    "dream_shard_required_amount": 1900,
+    "dream_shard_total": 17517
   },
   {
     "Lv": 28,
     "dream_shard_per__candy": 105,
-    "dream_shard_required_amount": 2835,
-    "dream_shard_total": 30128
+    "dream_shard_required_amount": 1995,
+    "dream_shard_total": 19512
   },
   {
     "Lv": 29,
     "dream_shard_per__candy": 111,
-    "dream_shard_required_amount": 3108,
-    "dream_shard_total": 33236
+    "dream_shard_required_amount": 2220,
+    "dream_shard_total": 21732
   },
   {
     "Lv": 30,
     "dream_shard_per__candy": 117,
-    "dream_shard_required_amount": 3393,
-    "dream_shard_total": 36512
+    "dream_shard_required_amount": 2457,
+    "dream_shard_total": 24072
   },
   {
     "Lv": 31,
     "dream_shard_per__candy": 122,
     "dream_shard_required_amount": 3660,
-    "dream_shard_total": 40050
+    "dream_shard_total": 27610
   },
   {
     "Lv": 32,
     "dream_shard_per__candy": 126,
     "dream_shard_required_amount": 3780,
-    "dream_shard_total": 43830
+    "dream_shard_total": 31390
   },
   {
     "Lv": 33,
     "dream_shard_per__candy": 130,
     "dream_shard_required_amount": 4030,
-    "dream_shard_total": 47860
+    "dream_shard_total": 35420
   },
   {
     "Lv": 34,
     "dream_shard_per__candy": 136,
     "dream_shard_required_amount": 4352,
-    "dream_shard_total": 52076
+    "dream_shard_total": 39636
   },
   {
     "Lv": 35,
     "dream_shard_per__candy": 143,
     "dream_shard_required_amount": 4719,
-    "dream_shard_total": 56652
+    "dream_shard_total": 44212
   },
   {
     "Lv": 36,
     "dream_shard_per__candy": 151,
     "dream_shard_required_amount": 4983,
-    "dream_shard_total": 61635
+    "dream_shard_total": 49195
   },
   {
     "Lv": 37,
     "dream_shard_per__candy": 160,
     "dream_shard_required_amount": 5440,
-    "dream_shard_total": 67075
+    "dream_shard_total": 54635
   },
   {
     "Lv": 38,
     "dream_shard_per__candy": 167,
     "dream_shard_required_amount": 5845,
-    "dream_shard_total": 72753
+    "dream_shard_total": 60313
   },
   {
     "Lv": 39,
     "dream_shard_per__candy": 174,
     "dream_shard_required_amount": 6090,
-    "dream_shard_total": 78843
+    "dream_shard_total": 66403
   },
   {
     "Lv": 40,
     "dream_shard_per__candy": 184,
     "dream_shard_required_amount": 6624,
-    "dream_shard_total": 85467
+    "dream_shard_total": 73027
   },
   {
     "Lv": 41,
     "dream_shard_per__candy": 192,
     "dream_shard_required_amount": 7104,
-    "dream_shard_total": 92379
+    "dream_shard_total": 79939
   },
   {
     "Lv": 42,
     "dream_shard_per__candy": 201,
     "dream_shard_required_amount": 7638,
-    "dream_shard_total": 99816
+    "dream_shard_total": 87376
   },
   {
     "Lv": 43,
     "dream_shard_per__candy": 211,
     "dream_shard_required_amount": 8018,
-    "dream_shard_total": 107834
+    "dream_shard_total": 95394
   },
   {
     "Lv": 44,
     "dream_shard_per__candy": 221,
     "dream_shard_required_amount": 8619,
-    "dream_shard_total": 116453
+    "dream_shard_total": 103792
   },
   {
     "Lv": 45,
     "dream_shard_per__candy": 227,
     "dream_shard_required_amount": 9080,
-    "dream_shard_total": 125306
+    "dream_shard_total": 112872
   },
   {
     "Lv": 46,
     "dream_shard_per__candy": 236,
     "dream_shard_required_amount": 9440,
-    "dream_shard_total": 134746
+    "dream_shard_total": 122312
   },
   {
     "Lv": 47,
     "dream_shard_per__candy": 250,
     "dream_shard_required_amount": 10250,
-    "dream_shard_total": 144746
+    "dream_shard_total": 132312
   },
   {
     "Lv": 48,
     "dream_shard_per__candy": 264,
     "dream_shard_required_amount": 11088,
-    "dream_shard_total": 155834
+    "dream_shard_total": 143136
   },
   {
     "Lv": 49,
     "dream_shard_per__candy": 279,
     "dream_shard_required_amount": 11718,
-    "dream_shard_total": 167552
+    "dream_shard_total": 154854
   },
   {
     "Lv": 50,
     "dream_shard_per__candy": 295,
     "dream_shard_required_amount": 12685,
-    "dream_shard_total": 179942
+    "dream_shard_total": 167539
   },
   {
     "Lv": 51,
     "dream_shard_per__candy": 309,
     "dream_shard_required_amount": 16995,
-    "dream_shard_total": 196937
+    "dream_shard_total": 184225
   },
   {
     "Lv": 52,
     "dream_shard_per__candy": 323,
     "dream_shard_required_amount": 20349,
-    "dream_shard_total": 216963
+    "dream_shard_total": 204574
   },
   {
     "Lv": 53,
     "dream_shard_per__candy": 338,
     "dream_shard_required_amount": 23660,
-    "dream_shard_total": 240961
+    "dream_shard_total": 228234
   },
   {
     "Lv": 54,
     "dream_shard_per__candy": 356,
     "dream_shard_required_amount": 27768,
-    "dream_shard_total": 268373
+    "dream_shard_total": 256002
   },
   {
     "Lv": 55,
     "dream_shard_per__candy": 372,
     "dream_shard_required_amount": 32736,
-    "dream_shard_total": 301481
+    "dream_shard_total": 288366
   },
   {
     "Lv": 56,
     "dream_shard_per__candy": 391,
     "dream_shard_required_amount": 35972,
-    "dream_shard_total": 337062
+    "dream_shard_total": 324338
   },
   {
     "Lv": 57,
     "dream_shard_per__candy": 437,
     "dream_shard_required_amount": 42389,
-    "dream_shard_total": 379014
+    "dream_shard_total": 366290
   },
   {
     "Lv": 58,
     "dream_shard_per__candy": 486,
     "dream_shard_required_amount": 49572,
-    "dream_shard_total": 428100
+    "dream_shard_total": 415376
   },
   {
     "Lv": 59,
     "dream_shard_per__candy": 538,
     "dream_shard_required_amount": 57566,
-    "dream_shard_total": 485666
+    "dream_shard_total": 472942
   },
   {
     "Lv": 60,
     "dream_shard_per__candy": 593,
     "dream_shard_required_amount": 67009,
-    "dream_shard_total": 552082
+    "dream_shard_total": 539358
+  },
+  {
+    "Lv": 61,
+    "dream_shard_per__candy": 651,
+    "dream_shard_required_amount": 74865,
+    "dream_shard_total": 614223
+  },
+  {
+    "Lv": 62,
+    "dream_shard_per__candy": 698,
+    "dream_shard_required_amount": 81666,
+    "dream_shard_total": 695191
+  },
+  {
+    "Lv": 63,
+    "dream_shard_per__candy": 750,
+    "dream_shard_required_amount": 90000,
+    "dream_shard_total": 785191
+  },
+  {
+    "Lv": 64,
+    "dream_shard_per__candy": 804,
+    "dream_shard_required_amount": 98088,
+    "dream_shard_total": 882475
+  },
+  {
+    "Lv": 65,
+    "dream_shard_per__candy": 866,
+    "dream_shard_required_amount": 107384,
+    "dream_shard_total": 988993
+  },
+  {
+    "Lv": 66,
+    "dream_shard_per__candy": 932,
+    "dream_shard_required_amount": 115568,
+    "dream_shard_total": 1104561
+  },
+  {
+    "Lv": 67,
+    "dream_shard_per__candy": 1004,
+    "dream_shard_required_amount": 125500,
+    "dream_shard_total": 1229057
+  },
+  {
+    "Lv": 68,
+    "dream_shard_per__candy": 1084,
+    "dream_shard_required_amount": 136584,
+    "dream_shard_total": 1365641
+  },
+  {
+    "Lv": 69,
+    "dream_shard_per__candy": 1173,
+    "dream_shard_required_amount": 150144,
+    "dream_shard_total": 1515785
+  },
+  {
+    "Lv": 70,
+    "dream_shard_per__candy": 1272,
+    "dream_shard_required_amount": 166632,
+    "dream_shard_total": 1681145
   }
 ]

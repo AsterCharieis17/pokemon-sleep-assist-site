@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.09.24",
+  "dataVersion": "2026.10.02",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-09-24-DarkraiNightmare",
-  "updateMessage": "データ更新：ダークライのメインスキルレベルが正しく反映されるよう修正しました。",
+  "updateMessageId": "2026-10-02-MasterEvaluation",
+  "updateMessage": "ポケモン・料理・メインスキルのデータと基準評価を更新しました。",
   "files": [
     {
       "name": "species.json",
