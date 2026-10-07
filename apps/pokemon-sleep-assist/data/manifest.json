@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.02",
+  "dataVersion": "2026.10.08",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-10-02-MasterEvaluation",
-  "updateMessage": "ポケモン・料理・メインスキルのデータと基準評価を更新しました。",
+  "updateMessageId": "2026-10-08-FoongusAmoonguss",
+  "updateMessage": "タマゲタケ・モロバレルのデータを追加しました。",
   "files": [
     {
       "name": "species.json",
