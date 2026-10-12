@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.08",
+  "dataVersion": "2026.10.12",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-10-08-FoongusAmoonguss",
-  "updateMessage": "タマゲタケ・モロバレルのデータを追加しました。",
+  "updateMessageId": "2026-10-12-MasterOcrSync",
+  "updateMessage": "同梱・配信マスタを統一し、OCR用アイコン参照データを追加しました。",
   "files": [
     {
       "name": "species.json",
@@ -100,6 +100,12 @@
       "url": "https://AsterCharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/personality.json",
       "category": "core",
       "updatePriority": "low"
+    },
+    {
+      "name": "ocr_icon_templates.json",
+      "url": "https://astercharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/ocr_icon_templates.json",
+      "category": "ocr",
+      "updatePriority": "medium"
     }
   ]
 }
