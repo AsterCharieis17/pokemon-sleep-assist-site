@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.12",
+  "dataVersion": "2026.10.22",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-10-12-MasterOcrSync",
-  "updateMessage": "同梱・配信マスタを統一し、OCR用アイコン参照データを追加しました。",
+  "updateMessageId": "2026-10-22-GengarIngredientRate",
+  "updateMessage": "10月22日の上方修正に対応し、ゲンガーの基礎食材確率を16.1%から16.6%に更新しました。",
   "files": [
     {
       "name": "species.json",
