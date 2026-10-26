@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.22",
+  "dataVersion": "2026.10.26",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-10-22-GengarIngredientRate",
-  "updateMessage": "10月22日の上方修正に対応し、ゲンガーの基礎食材確率を16.1%から16.6%に更新しました。",
+  "updateMessageId": "2026-10-26-GhostAndRecipeAudit",
+  "updateMessage": "ムウマ・ムウマージのデータを追加し、料理8品のレシピボーナスを修正しました。ムウマージのSP係数は確認中です。",
   "files": [
     {
       "name": "species.json",
@@ -105,6 +105,12 @@
       "name": "ocr_icon_templates.json",
       "url": "https://astercharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/ocr_icon_templates.json",
       "category": "ocr",
+      "updatePriority": "medium"
+    },
+    {
+      "name": "main_skill_effects.json",
+      "url": "https://astercharieis17.github.io/pokemon-sleep-assist-site/apps/pokemon-sleep-assist/data/main_skill_effects.json",
+      "category": "core",
       "updatePriority": "medium"
     }
   ]

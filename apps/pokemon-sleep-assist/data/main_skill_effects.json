@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.10.26",
+  "skills": [
+    {
+      "main_skill": "マジカルフレイム(料理アドバンスS)",
+      "max_level": 7,
+      "pot_capacity_increase": [
+        7,
+        10,
+        12,
+        17,
+        22,
+        27,
+        31
+      ],
+      "extra_tasty_rate_increase_percent": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        5
+      ],
+      "sp_values": null,
+      "sp_status": "unverified",
+      "sources": [
+        "https://www.pokemonsleep.net/news/343532353938363734313136303530393531/",
+        "https://pks.raenonx.cc/en/mainskill/info/41"
+      ]
+    }
+  ]
+}
