@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.26",
+  "dataVersion": "2026.10.28",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-10-26-GhostAndRecipeAudit",
-  "updateMessage": "ムウマ・ムウマージのデータを追加し、料理8品のレシピボーナスを修正しました。ムウマージのSP係数は確認中です。",
+  "updateMessageId": "2026-10-28-MysticalFireSP",
+  "updateMessage": "マジカルフレイム（料理アドバンスS）のSP計算に、有志資料掲載のLv.1〜7の推定係数を追加しました。公式確定値・実機照合済みの値ではありません。",
   "files": [
     {
       "name": "species.json",
