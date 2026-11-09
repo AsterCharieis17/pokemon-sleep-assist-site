@@ -1,402 +1,608 @@
 [
   {
     "Lv": 1,
-    "ingredients_coefficient": 1.0
+    "ingredients_coefficient": 1.0,
+    "help_time_multiplier": 1.0,
+    "is_prediction": false,
+    "sources": [
+      "https://wiki.pokesleep.com/ja/sp",
+      "https://wikiwiki.jp/poke_sleep/SP",
+      "https://wikiwiki.jp/poke_sleep/おてつだい/おてつだい時間"
+    ],
+    "checked_date": "2026-11-09"
   },
   {
     "Lv": 2,
-    "ingredients_coefficient": 1.003
+    "ingredients_coefficient": 1.003,
+    "help_time_multiplier": 0.998,
+    "is_prediction": false
   },
   {
     "Lv": 3,
-    "ingredients_coefficient": 1.007
+    "ingredients_coefficient": 1.007,
+    "help_time_multiplier": 0.996,
+    "is_prediction": false
   },
   {
     "Lv": 4,
-    "ingredients_coefficient": 1.011
+    "ingredients_coefficient": 1.011,
+    "help_time_multiplier": 0.994,
+    "is_prediction": false
   },
   {
     "Lv": 5,
-    "ingredients_coefficient": 1.016
+    "ingredients_coefficient": 1.016,
+    "help_time_multiplier": 0.992,
+    "is_prediction": false
   },
   {
     "Lv": 6,
-    "ingredients_coefficient": 1.021
+    "ingredients_coefficient": 1.021,
+    "help_time_multiplier": 0.99,
+    "is_prediction": false
   },
   {
     "Lv": 7,
-    "ingredients_coefficient": 1.027
+    "ingredients_coefficient": 1.027,
+    "help_time_multiplier": 0.988,
+    "is_prediction": false
   },
   {
     "Lv": 8,
-    "ingredients_coefficient": 1.033
+    "ingredients_coefficient": 1.033,
+    "help_time_multiplier": 0.986,
+    "is_prediction": false
   },
   {
     "Lv": 9,
-    "ingredients_coefficient": 1.039
+    "ingredients_coefficient": 1.039,
+    "help_time_multiplier": 0.984,
+    "is_prediction": false
   },
   {
     "Lv": 10,
-    "ingredients_coefficient": 1.046
+    "ingredients_coefficient": 1.046,
+    "help_time_multiplier": 0.982,
+    "is_prediction": false
   },
   {
     "Lv": 11,
-    "ingredients_coefficient": 1.053
+    "ingredients_coefficient": 1.053,
+    "help_time_multiplier": 0.98,
+    "is_prediction": false
   },
   {
     "Lv": 12,
-    "ingredients_coefficient": 1.061
+    "ingredients_coefficient": 1.061,
+    "help_time_multiplier": 0.978,
+    "is_prediction": false
   },
   {
     "Lv": 13,
-    "ingredients_coefficient": 1.069
+    "ingredients_coefficient": 1.069,
+    "help_time_multiplier": 0.976,
+    "is_prediction": false
   },
   {
     "Lv": 14,
-    "ingredients_coefficient": 1.077
+    "ingredients_coefficient": 1.077,
+    "help_time_multiplier": 0.974,
+    "is_prediction": false
   },
   {
     "Lv": 15,
-    "ingredients_coefficient": 1.085
+    "ingredients_coefficient": 1.085,
+    "help_time_multiplier": 0.972,
+    "is_prediction": false
   },
   {
     "Lv": 16,
-    "ingredients_coefficient": 1.094
+    "ingredients_coefficient": 1.094,
+    "help_time_multiplier": 0.97,
+    "is_prediction": false
   },
   {
     "Lv": 17,
-    "ingredients_coefficient": 1.104
+    "ingredients_coefficient": 1.104,
+    "help_time_multiplier": 0.968,
+    "is_prediction": false
   },
   {
     "Lv": 18,
-    "ingredients_coefficient": 1.114
+    "ingredients_coefficient": 1.114,
+    "help_time_multiplier": 0.966,
+    "is_prediction": false
   },
   {
     "Lv": 19,
-    "ingredients_coefficient": 1.124
+    "ingredients_coefficient": 1.124,
+    "help_time_multiplier": 0.964,
+    "is_prediction": false
   },
   {
     "Lv": 20,
-    "ingredients_coefficient": 1.134
+    "ingredients_coefficient": 1.134,
+    "help_time_multiplier": 0.962,
+    "is_prediction": false
   },
   {
     "Lv": 21,
-    "ingredients_coefficient": 1.145
+    "ingredients_coefficient": 1.145,
+    "help_time_multiplier": 0.96,
+    "is_prediction": false
   },
   {
     "Lv": 22,
-    "ingredients_coefficient": 1.156
+    "ingredients_coefficient": 1.156,
+    "help_time_multiplier": 0.958,
+    "is_prediction": false
   },
   {
     "Lv": 23,
-    "ingredients_coefficient": 1.168
+    "ingredients_coefficient": 1.168,
+    "help_time_multiplier": 0.956,
+    "is_prediction": false
   },
   {
     "Lv": 24,
-    "ingredients_coefficient": 1.18
+    "ingredients_coefficient": 1.18,
+    "help_time_multiplier": 0.954,
+    "is_prediction": false
   },
   {
     "Lv": 25,
-    "ingredients_coefficient": 1.192
+    "ingredients_coefficient": 1.192,
+    "help_time_multiplier": 0.952,
+    "is_prediction": false
   },
   {
     "Lv": 26,
-    "ingredients_coefficient": 1.205
+    "ingredients_coefficient": 1.205,
+    "help_time_multiplier": 0.95,
+    "is_prediction": false
   },
   {
     "Lv": 27,
-    "ingredients_coefficient": 1.218
+    "ingredients_coefficient": 1.218,
+    "help_time_multiplier": 0.948,
+    "is_prediction": false
   },
   {
     "Lv": 28,
-    "ingredients_coefficient": 1.231
+    "ingredients_coefficient": 1.231,
+    "help_time_multiplier": 0.946,
+    "is_prediction": false
   },
   {
     "Lv": 29,
-    "ingredients_coefficient": 1.245
+    "ingredients_coefficient": 1.245,
+    "help_time_multiplier": 0.944,
+    "is_prediction": false
   },
   {
     "Lv": 30,
-    "ingredients_coefficient": 1.259
+    "ingredients_coefficient": 1.259,
+    "help_time_multiplier": 0.942,
+    "is_prediction": false
   },
   {
     "Lv": 31,
-    "ingredients_coefficient": 1.274
+    "ingredients_coefficient": 1.274,
+    "help_time_multiplier": 0.94,
+    "is_prediction": false
   },
   {
     "Lv": 32,
-    "ingredients_coefficient": 1.288
+    "ingredients_coefficient": 1.288,
+    "help_time_multiplier": 0.938,
+    "is_prediction": false
   },
   {
     "Lv": 33,
-    "ingredients_coefficient": 1.303
+    "ingredients_coefficient": 1.303,
+    "help_time_multiplier": 0.936,
+    "is_prediction": false
   },
   {
     "Lv": 34,
-    "ingredients_coefficient": 1.319
+    "ingredients_coefficient": 1.319,
+    "help_time_multiplier": 0.934,
+    "is_prediction": false
   },
   {
     "Lv": 35,
-    "ingredients_coefficient": 1.335
+    "ingredients_coefficient": 1.335,
+    "help_time_multiplier": 0.932,
+    "is_prediction": false
   },
   {
     "Lv": 36,
-    "ingredients_coefficient": 1.351
+    "ingredients_coefficient": 1.351,
+    "help_time_multiplier": 0.93,
+    "is_prediction": false
   },
   {
     "Lv": 37,
-    "ingredients_coefficient": 1.368
+    "ingredients_coefficient": 1.368,
+    "help_time_multiplier": 0.928,
+    "is_prediction": false
   },
   {
     "Lv": 38,
-    "ingredients_coefficient": 1.385
+    "ingredients_coefficient": 1.385,
+    "help_time_multiplier": 0.926,
+    "is_prediction": false
   },
   {
     "Lv": 39,
-    "ingredients_coefficient": 1.402
+    "ingredients_coefficient": 1.402,
+    "help_time_multiplier": 0.924,
+    "is_prediction": false
   },
   {
     "Lv": 40,
-    "ingredients_coefficient": 1.42
+    "ingredients_coefficient": 1.42,
+    "help_time_multiplier": 0.922,
+    "is_prediction": false
   },
   {
     "Lv": 41,
-    "ingredients_coefficient": 1.439
+    "ingredients_coefficient": 1.439,
+    "help_time_multiplier": 0.92,
+    "is_prediction": false
   },
   {
     "Lv": 42,
-    "ingredients_coefficient": 1.457
+    "ingredients_coefficient": 1.457,
+    "help_time_multiplier": 0.918,
+    "is_prediction": false
   },
   {
     "Lv": 43,
-    "ingredients_coefficient": 1.477
+    "ingredients_coefficient": 1.477,
+    "help_time_multiplier": 0.916,
+    "is_prediction": false
   },
   {
     "Lv": 44,
-    "ingredients_coefficient": 1.496
+    "ingredients_coefficient": 1.496,
+    "help_time_multiplier": 0.914,
+    "is_prediction": false
   },
   {
     "Lv": 45,
-    "ingredients_coefficient": 1.517
+    "ingredients_coefficient": 1.517,
+    "help_time_multiplier": 0.912,
+    "is_prediction": false
   },
   {
     "Lv": 46,
-    "ingredients_coefficient": 1.537
+    "ingredients_coefficient": 1.537,
+    "help_time_multiplier": 0.91,
+    "is_prediction": false
   },
   {
     "Lv": 47,
-    "ingredients_coefficient": 1.558
+    "ingredients_coefficient": 1.558,
+    "help_time_multiplier": 0.908,
+    "is_prediction": false
   },
   {
     "Lv": 48,
-    "ingredients_coefficient": 1.58
+    "ingredients_coefficient": 1.58,
+    "help_time_multiplier": 0.906,
+    "is_prediction": false
   },
   {
     "Lv": 49,
-    "ingredients_coefficient": 1.602
+    "ingredients_coefficient": 1.602,
+    "help_time_multiplier": 0.904,
+    "is_prediction": false
   },
   {
     "Lv": 50,
-    "ingredients_coefficient": 1.625
+    "ingredients_coefficient": 1.625,
+    "help_time_multiplier": 0.902,
+    "is_prediction": false
   },
   {
     "Lv": 51,
-    "ingredients_coefficient": 1.648
+    "ingredients_coefficient": 1.648,
+    "help_time_multiplier": 0.9,
+    "is_prediction": false
   },
   {
     "Lv": 52,
-    "ingredients_coefficient": 1.671
+    "ingredients_coefficient": 1.671,
+    "help_time_multiplier": 0.898,
+    "is_prediction": false
   },
   {
     "Lv": 53,
-    "ingredients_coefficient": 1.696
+    "ingredients_coefficient": 1.696,
+    "help_time_multiplier": 0.896,
+    "is_prediction": false
   },
   {
     "Lv": 54,
-    "ingredients_coefficient": 1.72
+    "ingredients_coefficient": 1.72,
+    "help_time_multiplier": 0.894,
+    "is_prediction": false
   },
   {
     "Lv": 55,
-    "ingredients_coefficient": 1.745
+    "ingredients_coefficient": 1.745,
+    "help_time_multiplier": 0.892,
+    "is_prediction": false
   },
   {
     "Lv": 56,
-    "ingredients_coefficient": 1.771
+    "ingredients_coefficient": 1.771,
+    "help_time_multiplier": 0.89,
+    "is_prediction": false
   },
   {
     "Lv": 57,
-    "ingredients_coefficient": 1.798
+    "ingredients_coefficient": 1.798,
+    "help_time_multiplier": 0.888,
+    "is_prediction": false
   },
   {
     "Lv": 58,
-    "ingredients_coefficient": 1.824
+    "ingredients_coefficient": 1.824,
+    "help_time_multiplier": 0.886,
+    "is_prediction": false
   },
   {
     "Lv": 59,
-    "ingredients_coefficient": 1.852
+    "ingredients_coefficient": 1.852,
+    "help_time_multiplier": 0.884,
+    "is_prediction": false
   },
   {
     "Lv": 60,
-    "ingredients_coefficient": 1.88
+    "ingredients_coefficient": 1.88,
+    "help_time_multiplier": 0.882,
+    "is_prediction": false
   },
   {
     "Lv": 61,
-    "ingredients_coefficient": 1.927
+    "ingredients_coefficient": 1.927,
+    "help_time_multiplier": 0.88,
+    "is_prediction": false
   },
   {
     "Lv": 62,
-    "ingredients_coefficient": 1.975
+    "ingredients_coefficient": 1.975,
+    "help_time_multiplier": 0.878,
+    "is_prediction": false
   },
   {
     "Lv": 63,
-    "ingredients_coefficient": 2.024
+    "ingredients_coefficient": 2.024,
+    "help_time_multiplier": 0.876,
+    "is_prediction": false
   },
   {
     "Lv": 64,
-    "ingredients_coefficient": 2.075
+    "ingredients_coefficient": 2.075,
+    "help_time_multiplier": 0.874,
+    "is_prediction": false
   },
   {
     "Lv": 65,
-    "ingredients_coefficient": 2.127
+    "ingredients_coefficient": 2.127,
+    "help_time_multiplier": 0.872,
+    "is_prediction": false
   },
   {
     "Lv": 66,
-    "ingredients_coefficient": 2.18
+    "ingredients_coefficient": 2.18,
+    "help_time_multiplier": 0.87,
+    "is_prediction": false
   },
   {
     "Lv": 67,
-    "ingredients_coefficient": 2.235
+    "ingredients_coefficient": 2.235,
+    "help_time_multiplier": 0.868,
+    "is_prediction": false
   },
   {
     "Lv": 68,
-    "ingredients_coefficient": 2.29
+    "ingredients_coefficient": 2.29,
+    "help_time_multiplier": 0.866,
+    "is_prediction": false
   },
   {
     "Lv": 69,
-    "ingredients_coefficient": 2.348
+    "ingredients_coefficient": 2.348,
+    "help_time_multiplier": 0.864,
+    "is_prediction": false
   },
   {
     "Lv": 70,
-    "ingredients_coefficient": 2.406
+    "ingredients_coefficient": 2.406,
+    "help_time_multiplier": 0.862,
+    "is_prediction": false
   },
   {
     "Lv": 71,
-    "ingredients_coefficient": 2.451
+    "ingredients_coefficient": 2.451,
+    "help_time_multiplier": 0.86,
+    "is_prediction": true
   },
   {
     "Lv": 72,
-    "ingredients_coefficient": 2.505
+    "ingredients_coefficient": 2.505,
+    "help_time_multiplier": 0.858,
+    "is_prediction": true
   },
   {
     "Lv": 73,
-    "ingredients_coefficient": 2.559
+    "ingredients_coefficient": 2.559,
+    "help_time_multiplier": 0.856,
+    "is_prediction": true
   },
   {
     "Lv": 74,
-    "ingredients_coefficient": 2.613
+    "ingredients_coefficient": 2.613,
+    "help_time_multiplier": 0.854,
+    "is_prediction": true
   },
   {
     "Lv": 75,
-    "ingredients_coefficient": 2.667
+    "ingredients_coefficient": 2.667,
+    "help_time_multiplier": 0.852,
+    "is_prediction": true
   },
   {
     "Lv": 76,
-    "ingredients_coefficient": 2.721
+    "ingredients_coefficient": 2.721,
+    "help_time_multiplier": 0.85,
+    "is_prediction": true
   },
   {
     "Lv": 77,
-    "ingredients_coefficient": 2.775
+    "ingredients_coefficient": 2.775,
+    "help_time_multiplier": 0.848,
+    "is_prediction": true
   },
   {
     "Lv": 78,
-    "ingredients_coefficient": 2.829
+    "ingredients_coefficient": 2.829,
+    "help_time_multiplier": 0.846,
+    "is_prediction": true
   },
   {
     "Lv": 79,
-    "ingredients_coefficient": 2.883
+    "ingredients_coefficient": 2.883,
+    "help_time_multiplier": 0.844,
+    "is_prediction": true
   },
   {
     "Lv": 80,
-    "ingredients_coefficient": 2.937
+    "ingredients_coefficient": 2.937,
+    "help_time_multiplier": 0.842,
+    "is_prediction": true
   },
   {
     "Lv": 81,
-    "ingredients_coefficient": 2.991
+    "ingredients_coefficient": 2.991,
+    "help_time_multiplier": 0.84,
+    "is_prediction": true
   },
   {
     "Lv": 82,
-    "ingredients_coefficient": 3.045
+    "ingredients_coefficient": 3.045,
+    "help_time_multiplier": 0.838,
+    "is_prediction": true
   },
   {
     "Lv": 83,
-    "ingredients_coefficient": 3.099
+    "ingredients_coefficient": 3.099,
+    "help_time_multiplier": 0.836,
+    "is_prediction": true
   },
   {
     "Lv": 84,
-    "ingredients_coefficient": 3.153
+    "ingredients_coefficient": 3.153,
+    "help_time_multiplier": 0.834,
+    "is_prediction": true
   },
   {
     "Lv": 85,
-    "ingredients_coefficient": 3.207
+    "ingredients_coefficient": 3.207,
+    "help_time_multiplier": 0.832,
+    "is_prediction": true
   },
   {
     "Lv": 86,
-    "ingredients_coefficient": 3.261
+    "ingredients_coefficient": 3.261,
+    "help_time_multiplier": 0.83,
+    "is_prediction": true
   },
   {
     "Lv": 87,
-    "ingredients_coefficient": 3.315
+    "ingredients_coefficient": 3.315,
+    "help_time_multiplier": 0.828,
+    "is_prediction": true
   },
   {
     "Lv": 88,
-    "ingredients_coefficient": 3.369
+    "ingredients_coefficient": 3.369,
+    "help_time_multiplier": 0.826,
+    "is_prediction": true
   },
   {
     "Lv": 89,
-    "ingredients_coefficient": 3.423
+    "ingredients_coefficient": 3.423,
+    "help_time_multiplier": 0.824,
+    "is_prediction": true
   },
   {
     "Lv": 90,
-    "ingredients_coefficient": 3.477
+    "ingredients_coefficient": 3.477,
+    "help_time_multiplier": 0.822,
+    "is_prediction": true
   },
   {
     "Lv": 91,
-    "ingredients_coefficient": 3.531
+    "ingredients_coefficient": 3.531,
+    "help_time_multiplier": 0.82,
+    "is_prediction": true
   },
   {
     "Lv": 92,
-    "ingredients_coefficient": 3.585
+    "ingredients_coefficient": 3.585,
+    "help_time_multiplier": 0.818,
+    "is_prediction": true
   },
   {
     "Lv": 93,
-    "ingredients_coefficient": 3.639
+    "ingredients_coefficient": 3.639,
+    "help_time_multiplier": 0.816,
+    "is_prediction": true
   },
   {
     "Lv": 94,
-    "ingredients_coefficient": 3.693
+    "ingredients_coefficient": 3.693,
+    "help_time_multiplier": 0.814,
+    "is_prediction": true
   },
   {
     "Lv": 95,
-    "ingredients_coefficient": 3.747
+    "ingredients_coefficient": 3.747,
+    "help_time_multiplier": 0.812,
+    "is_prediction": true
   },
   {
     "Lv": 96,
-    "ingredients_coefficient": 3.801
+    "ingredients_coefficient": 3.801,
+    "help_time_multiplier": 0.81,
+    "is_prediction": true
   },
   {
     "Lv": 97,
-    "ingredients_coefficient": 3.855
+    "ingredients_coefficient": 3.855,
+    "help_time_multiplier": 0.808,
+    "is_prediction": true
   },
   {
     "Lv": 98,
-    "ingredients_coefficient": 3.909
+    "ingredients_coefficient": 3.909,
+    "help_time_multiplier": 0.806,
+    "is_prediction": true
   },
   {
     "Lv": 99,
-    "ingredients_coefficient": 3.963
+    "ingredients_coefficient": 3.963,
+    "help_time_multiplier": 0.804,
+    "is_prediction": true
   },
   {
     "Lv": 100,
-    "ingredients_coefficient": 4.017
+    "ingredients_coefficient": 4.017,
+    "help_time_multiplier": 0.802,
+    "is_prediction": true
   }
 ]

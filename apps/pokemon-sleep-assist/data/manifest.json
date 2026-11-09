@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.10.28",
+  "dataVersion": "2026.11.09",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-10-28-MysticalFireSP",
-  "updateMessage": "マジカルフレイム（料理アドバンスS）のSP計算に、有志資料掲載のLv.1〜7の推定係数を追加しました。公式確定値・実機照合済みの値ではありません。",
+  "updateMessageId": "2026-11-09-Level70Coefficients",
+  "updateMessage": "Lv.70までのSP食材係数とおてつだい時間のレベル補正を資料と照合しました。係数JSONに時間補正と予測範囲を明記しました。Lv.71以降は引き続き予測値です。",
   "files": [
     {
       "name": "species.json",
