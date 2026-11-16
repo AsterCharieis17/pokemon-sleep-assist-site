@@ -1213,5 +1213,50 @@
     "ingredients3_count": 14,
     "ingredients4_name": "",
     "ingredients4_count": 0
+  },
+  {
+    "dishes": "タネばくだんナンカレー",
+    "type": "カレー/シチュー",
+    "total_ingredients_count": 39,
+    "basic_energy": 7950,
+    "bonus": 0.25,
+    "ingredients1_name": "hitokuchi_nuts",
+    "ingredients1_count": 15,
+    "ingredients2_name": "zussiri_kabocha",
+    "ingredients2_count": 12,
+    "ingredients3_name": "wakakusa_corn",
+    "ingredients3_count": 12,
+    "ingredients4_name": "",
+    "ingredients4_count": ""
+  },
+  {
+    "dishes": "くさむすびサラダラップ",
+    "type": "サラダ",
+    "total_ingredients_count": 121,
+    "basic_energy": 26350,
+    "bonus": 0.82,
+    "ingredients1_name": "attaka_ginger",
+    "ingredients1_count": 36,
+    "ingredients2_name": "anmin_tomato",
+    "ingredients2_count": 33,
+    "ingredients3_name": "tsuyatsuya_avocado",
+    "ingredients3_count": 22,
+    "ingredients4_name": "hitokuchi_nuts",
+    "ingredients4_count": 30
+  },
+  {
+    "dishes": "おいしいシッポロールケーキ",
+    "type": "ドリンク/デザート",
+    "total_ingredients_count": 91,
+    "basic_energy": 19846,
+    "bonus": 0.61,
+    "ingredients1_name": "tokusen_egg",
+    "ingredients1_count": 33,
+    "ingredients2_name": "oishii_shippo",
+    "ingredients2_count": 10,
+    "ingredients3_name": "wakakusa_daizu",
+    "ingredients3_count": 22,
+    "ingredients4_name": "hitokuchi_nuts",
+    "ingredients4_count": 26
   }
 ]

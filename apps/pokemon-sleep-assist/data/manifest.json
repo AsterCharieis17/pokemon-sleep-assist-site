@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.11.09",
+  "dataVersion": "2026.11.16",
   "showUpdateMessage": true,
-  "updateMessageId": "2026-11-09-Level70Coefficients",
-  "updateMessage": "Lv.70までのSP食材係数とおてつだい時間のレベル補正を資料と照合しました。係数JSONに時間補正と予測範囲を明記しました。Lv.71以降は引き続き予測値です。",
+  "updateMessageId": "2026-11-16-SnackableNuts",
+  "updateMessage": "ひとくちナッツ、新料理3種類、モンメン・エルフーンに対応しました。食材アイコンとOCR参照画像の追加にはアプリ本体の更新が必要です。",
   "files": [
     {
       "name": "species.json",

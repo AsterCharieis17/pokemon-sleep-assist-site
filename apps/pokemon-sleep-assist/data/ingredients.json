@@ -93,5 +93,10 @@
     "ingredients": "zussiri_kabocha",
     "display_name": "ずっしりカボチャ",
     "basic_energy": 250
+  },
+  {
+    "ingredients": "hitokuchi_nuts",
+    "display_name": "ひとくちナッツ",
+    "basic_energy": 112
   }
 ]
